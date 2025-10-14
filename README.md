@@ -1,11 +1,11 @@
 <h1 align="center">Hi Gelexy 🌌!</h1>  
-<h3 align="center">I'm <b>Yaser Belal</b></h3>
+<h3 align="center">I'm <b>Yasser Belal</b></h3>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaserbelal&label=Profile%20views&color=0e75b6&style=flat" alt="yaserbelal" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaserbelal" alt="yaserbelal" /></a> </p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaserbelal" alt="Yasser-PoltX" /></a> </p>  
   
-- 👨‍💻 All of my projects are available at [  https://github.com/yaserbelal](  https://github.com/yaserbelal
+- 👨‍💻 All of my projects are available at [  https://github.com/yaserbelal](  https://github.com/Yasser-PoltX
 )  
 - 📫 How to reach me **yasserbelal2005@gmail.com**  
   
