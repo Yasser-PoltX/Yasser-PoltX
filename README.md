@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br>🔐 Passionate about Cybersecurity, Ethical Hacking & Backend Development<br>📍 Faqus, Al-Sharqia Governorate, Egypt<br>📫 Reach me at **yasserbelal2005@gmail.com**</p>
+<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br>🔐 Passionate about Cybersecurity, Ethical Hacking & Backend Development<br>📍 Faqus, Al-Sharqia Governorate, Egypt<br>📫 Reach me at yasserbelal2005@gmail.com</p>
 
 ###
 
