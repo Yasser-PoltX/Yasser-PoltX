@@ -1,16 +1,18 @@
 <h1 align="center">Hi Gelexy 🌌!</h1>  
 <h3 align="center">I'm <b>Yasser Belal</b></h3>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yasser-PoltX&label=Profile%20views&color=0e75b6&style=flat" alt="Yasser-PoltX" /> </p>  
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yasser-PoltX" alt="Yasser-PoltX" /></a> </p>  
-  
-- 👨‍💻 All of my projects are available at [  https://github.com/Yasser-PoltX](  https://github.com/Yasser-PoltX
-)  
-- 📫 How to reach me **yasserbelal2005@gmail.com**  
-  
+    
+- 👨‍💻 All of my projects are available at [  https://github.com/Yasser-PoltX](  https://github.com/Yasser-PoltX)  
+- 🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University
+- 🔐 Passionate about Cybersecurity, Ethical Hacking & Backend Development
+- 📍 Faqus, Al-Sharqia Governorate, Egypt
+- 📫 Reach me at yasserbelal2005@gmail.com
+
 <h3 align="left">Connect with me:</h3>  
-<p align="left">  <a href="www.linkedin.com/in/yaser-belal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-belal" height="30" width="40" /></a>  <a href="https://codeforces.com/profile/Yaser_PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="30" width="40" /></a>  
+<p align="left"> 
+<a href="www.linkedin.com/in/yasser-belal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-belal" height="30" width="40" /></a>  
+<a href="https://codeforces.com/profile/Yaser_PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="30" width="40" /></a>  
+<a href="https://x.com/Yasser-PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="moosayed." height="30" width="40" /></a>  
+<a href="https://codeforces.com/profile/Yaser_PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
@@ -26,4 +28,4 @@
 
 
 
-![snake gif](https://github.com/yaserbelal/yaserbelal/blob/output/github-contribution-grid-snake-dark.svg)A
+![snake gif](https://github.com/yaserbelal/yaserbelal/blob/output/github-contribution-grid-snake-dark.svg)
