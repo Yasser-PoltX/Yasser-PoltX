@@ -26,6 +26,5 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasser-PoltX&show_icons=true&locale=en" alt="yaserbelal" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dawh7ffdmt7y5d6oww4qzbfghe&count={count})
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dawh7ffdmt7y5d6oww4qzbfghe)
 ![snake gif](https://github.com/yaserbelal/yaserbelal/blob/output/github-contribution-grid-snake-dark.svg)
