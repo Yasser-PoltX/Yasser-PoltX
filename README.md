@@ -1,30 +1,97 @@
-<h1 align="center">Hi Gelexy 🌌!</h1>  
-<h3 align="center">I'm <b>Yasser Belal</b></h3>
-    
-- 👨‍💻 All of my projects are available at [  https://github.com/Yasser-PoltX](  https://github.com/Yasser-PoltX)  
-- 🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University
-- 🔐 Passionate about Cybersecurity, Ethical Hacking & Backend Development
-- 📍 Faqus, Al-Sharqia Governorate, Egypt
-- 📫 Reach me at yasserbelal2005@gmail.com
+<h1 align="center">Hi Gelexy 🌌!</h1>
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left"> 
-<a href="www.linkedin.com/in/yasser-belal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-belal" height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/Yaser_PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="30" width="40" /></a>  
-<a href="https://x.com/Yasser-PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="moosayed." height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/Yaser_PoltX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="30" width="40" /></a>  
-</p>  
-  
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> 
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- </p>   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasser-PoltX&show_icons=true&locale=en&layout=compact" alt="yaserbelal" /></p>  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasser-PoltX&show_icons=true&locale=en" alt="yaserbelal" /></p>
+###
 
+<h3 align="center">I'm Yasser Belal</h3>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br>🔐 Passionate about Cybersecurity, Ethical Hacking & Backend Development<br>📍 Faqus, Al-Sharqia Governorate, Egypt<br>📫 Reach me at yasserbelal2005@gmail.com</p>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+<a href="https://codeforces.com/profile/Yaser_PoltX" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="42" width="65" /></a>  
+  <a href="https://www.linkedin.com/in/yaser-belal/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="42" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Yasser_PoltX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="42" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/Yasser_PoltX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="65" height="42" alt="telegram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="42" alt="instagram logo"  />
+  <a href="https://tryhackme.com/p/Yasser.PoltX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="42" alt="tryhackme logo"  />
+  </a>
+</div>
+  <a href="https://app.hackthebox.com/profile/Yasser-PoltX" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="65" height="42" alt="hackerrank logo"  />
+  </a>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">I use</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yasser-PoltX/Yasser-PoltX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yasser-PoltX/Yasser-PoltX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yasser-PoltX/Yasser-PoltX/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dawh7ffdmt7y5d6oww4qzbfghe)
-![snake gif](https://github.com/yaserbelal/yaserbelal/blob/output/github-contribution-grid-snake-dark.svg)
+
+###
