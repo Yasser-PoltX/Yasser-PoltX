@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br>🔐 Passionate about Cybersecurity, Ethical Hacking & Backend Development<br>📍 Faqus, Al-Sharqia Governorate, Egypt<br>📫 Reach me at yasserbelal2005@gmail.com</p>
+<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br>🔐 Passionate about Cybersecurity, Ethical Hacking & Backend Development<br>📍 Faqus, Al-Sharqia Governorate, Egypt<br>📫 Reach me at **yasserbelal2005@gmail.com**</p>
 
 ###
 
@@ -83,11 +83,12 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dawh7ffdmt7y5d6oww4qzbfghe)
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31dawh7ffdmt7y5d6oww4qzbfghe)
 
 ###
