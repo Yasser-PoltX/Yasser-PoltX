@@ -20,7 +20,7 @@
 
 <div align="left">
 <a href="https://codeforces.com/profile/Yaser_PoltX" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="42" width="65" /></a>  
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moosayed." height="40" width="63" /></a>  
   <a href="https://www.linkedin.com/in/yaser-belal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="42" alt="linkedin logo"  />
   </a>
@@ -34,10 +34,10 @@
   <a href="https://tryhackme.com/p/Yasser.PoltX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="42" alt="tryhackme logo"  />
   </a>
-</div>
   <a href="https://app.hackthebox.com/profile/Yasser-PoltX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="65" height="42" alt="hackerrank logo"  />
   </a>
+</div>
 
 ###
 
@@ -79,11 +79,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yasser-PoltX/Yasser-PoltX/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yasser-PoltX/Yasser-PoltX/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yasser-PoltX/Yasser-PoltX/output/pacman-contribution-graph.svg">
-</picture>
+![snake gif](https://github.com/yaserbelal/yaserbelal/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
